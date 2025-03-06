@@ -27,4 +27,5 @@ body{
     background-color: hsl(177,92%,17%);
     margin-top: 15px;
     padding: 3px;
+    border-radius: 5px;
 }
