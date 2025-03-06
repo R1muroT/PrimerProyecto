@@ -1,0 +1,30 @@
+/* esto es un comentario de una o varias lineas */
+body{
+    background: #00f4;
+}
+.ju{
+    background: #f007;
+}
+.negrita{
+    color: yellow;
+}
+.buto{
+    color: #235;
+    font-size: 20px;
+}
+.rgb{
+    color: rgb(41, 163, 102);
+}
+.divrgba{
+    width: 500px;
+    background-color: rgba(11, 60, 8, 0.5);
+    margin-top: 15px;
+    padding: 3px;
+    border-radius: 5px;
+}
+.divhsl{
+    width: 500px;
+    background-color: hsl(177,92%,17%);
+    margin-top: 15px;
+    padding: 3px;
+}
